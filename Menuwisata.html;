@@ -18,15 +18,15 @@
     <!-- Menu -->
     <tr align="center" width="90%">
         <td bgcolor="cyan" width="30%" height="40">
-            <a href="index.html">Beranda</a>
+            <a href="index.html;">Beranda</a>
         </td>
 
         <td bgcolor="cyan" width="30%" height="40">
-            <a href="menuwisata.html">Menu Wisata</a>
+            <a href="menuwisata.html;">Menu Wisata</a>
         </td>
 
         <td bgcolor="cyan" width="30%" height="40">
-            <a href="websiteresmi.html">Website Pariwisata</a>
+            <a href="websiteresmi.html;">Website Pariwisata</a>
         </td>
     </tr>
 
